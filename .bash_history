@@ -430,3 +430,11 @@ ls
 git init
 git add .
 git commit -m "initial commit"
+ls
+nano .gitignore
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/KhalidAli555/TWSThreeTierAppChallenge-v2.git
+git push -u origin main
